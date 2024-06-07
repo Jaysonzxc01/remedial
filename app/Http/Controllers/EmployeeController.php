@@ -7,6 +7,7 @@ use App\Models\Employee;
 
 class EmployeeController extends Controller
 {
+
     protected $employee;
 
     public function __construct(){

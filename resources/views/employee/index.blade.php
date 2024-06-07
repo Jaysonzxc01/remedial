@@ -4,7 +4,7 @@
 
     <div class="container">
 
-        <h3 align="center" style="background:blue"class="mt-5">Employee Management</h3>
+        <h3 align="center" class="mt-5">Employee Management</h3>
 
         <div class="row">
             <div class="col-md-2">
@@ -38,7 +38,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12 mt-3">
-                            <input type="submit" class="btn btn-info" style="background-color:blue" value="Register">
+                            <input type="submit" class="btn btn-info" style="background-color:black" value="Register">
                         </div>
 
                     </div>
