@@ -38,7 +38,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12 mt-3">
-                            <input type="submit" class="btn btn-info" style="background-color:black" value="Register">
+                            <input type="submit" class="btn btn-info" value="Register">
                         </div>
 
                     </div>
